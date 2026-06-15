@@ -193,7 +193,7 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Akhil Kraleti**
+**Srija Kraleti**
 
 Computer Science Undergraduate | Data Science & Machine Learning Enthusiast
 
